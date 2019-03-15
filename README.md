@@ -6,4 +6,4 @@ word word
 
     Double tab word
     
-[Google 超链接](www.google.com)
+[baidu 超链接](www.baidu.com)
